@@ -9,9 +9,9 @@
 
 ## 🛠️ My Tech Stack
 
-- 💻 Languages: `Python`, `C/C++`, 'Java'
+- 💻 Languages: `Python`, `C/C++` , `Java`
 - 📊 Libraries/Frameworks: `NumPy`, `Pandas`, `TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn`, `XGBoost`
-- ⚙️ Systems: `Linux`, `CUDA`, `MPI`, `OpenMP`
+- ⚙️ Systems:  `CUDA`, `MPI`, `OpenMP`
 - 🛠 Tools: `Git`, `GitHub`, `Jupyter`, `VS Code`, `Streamlit`
 - 🌍 Languages: Arabic 🇩🇿 | French 🇫🇷 | English 🇬🇧
 
@@ -21,19 +21,12 @@
 
 | Project | Description | Tags |
 |--------|-------------|------|
-| 🧠 **Deep Learning Classifier** | A model for classifying text/documents using DL | `NLP`, `Deep Learning`, `Keras` |
+| 🧠 **Deep Learning Classifier** | A model for classifying text/documents using DL | `NLP`, `Deep Learning`, `Keras`, `NLTK` |
 | 📈 **Customer Segmentation** | Segmenting telecom users using clustering & classification (KMeans, KNN) | `ML`, `Telco`, `HPC` |
 | 🧮 **CUDA Segmentation** | GPU-accelerated image segmentation using Adaptative threshholding | `CUDA`, `Image Processing`, `Parallelism` |
-| 📚 **POS Tagger with NLTK** | Part-of-speech tagger trained on the BBC News corpus | `NLP`, `NLTK`, `Evaluation` |
+
 
 ➡️ _More projects coming soon…_
-
----
-
-## 📊 GitHub Stats
-
-![Aziza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheddacheaziza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kheddacheaziza&layout=compact&theme=radical)
 
 ---
 
