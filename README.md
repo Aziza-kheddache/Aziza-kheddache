@@ -9,7 +9,7 @@
 
 ## 🛠️ My Tech Stack
 
-- 💻 Languages: `Python`, `C/C++`, `Shell`, `Bash`
+- 💻 Languages: `Python`, `C/C++`, 'Java'
 - 📊 Libraries/Frameworks: `NumPy`, `Pandas`, `TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn`, `XGBoost`
 - ⚙️ Systems: `Linux`, `CUDA`, `MPI`, `OpenMP`
 - 🛠 Tools: `Git`, `GitHub`, `Jupyter`, `VS Code`, `Streamlit`
