@@ -94,15 +94,6 @@ My academic and project work covers telecom analytics, image processing, NLP, an
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziza-kheddache&show_icons=true&theme=react" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziza-kheddache&layout=compact&theme=react" width="48%"/>
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 azizakheddache@gmail.com  
