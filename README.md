@@ -8,7 +8,7 @@
 
 ---
 
-## 👧🏻 About Me
+## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 I'm a data enthusiast and HPC lover, curious about solving real-world problems using smart, efficient, and scalable solutions.  
 My academic and project work covers telecom analytics, image processing, NLP, and system-level optimization using CUDA.
