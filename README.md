@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aziza-kheddache/Aziza-kheddache/main/banner.png" alt="Aziza Kheddache banner" />
+</p>
+
+
 <h1 align="center">Hi, I'm Aziza 👋</h1>
 
 <p align="center">
