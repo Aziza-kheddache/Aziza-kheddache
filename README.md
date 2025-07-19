@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## 👧🏻 About Me
 
 I'm a data enthusiast and HPC lover, curious about solving real-world problems using smart, efficient, and scalable solutions.  
 My academic and project work covers telecom analytics, image processing, NLP, and system-level optimization using CUDA.
@@ -42,7 +42,7 @@ My academic and project work covers telecom analytics, image processing, NLP, an
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 
-### 🧪 Data & Databases
+### 📊 Data & Databases
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
